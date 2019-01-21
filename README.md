@@ -1,0 +1,2 @@
+# staring
+A simple project
